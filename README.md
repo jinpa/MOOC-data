@@ -1,4 +1,10 @@
 MOOC-data
 =========
 
-MOOC-data-tools
+MOOC-data
+
+Tools for manipulating/studying usage data from MOOCs.
+
+These can be rough, but let's share anyway.
+
+
