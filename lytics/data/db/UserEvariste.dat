@@ -1,0 +1,4 @@
+ENGINE django.db.backends.mysql
+USER user
+PASSWORD pw
+HOST host

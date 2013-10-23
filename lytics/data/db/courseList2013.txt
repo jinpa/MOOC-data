@@ -1,0 +1,46 @@
+coursera-20130701-2048-maththink-002, 20130701-2048-maththink-002_eventing.gz
+coursera-20130701-1010-childnutrition-001, 20130701-1010-childnutrition-001_eventing.gz
+coursera-20130430-2129-12-001-genomescience
+coursera-20130422-0337-12feb-cs101
+coursera-20130701-1234-startup-001, 20130701-1234-startup-001_eventing.gz
+coursera-20130701-1410-compilers-003, 20130701-1410-compilers-003_eventing.gz
+coursera-20130421-2305-12jan-pgm
+coursera-20130701-1010-einstein-001, 20130701-1010-einstein-001_eventing.gz
+coursera-20130506-1717-compilers-003
+coursera-20130701-1434-12-002-intrologic, 20130701-1434-12-002-intrologic_eventing.gz
+coursera-20130422-1151-12-001-algo2, 12-001-algo2-eventing.gz
+coursera-20130422-0809-12-002-algo, 12-002-algo-eventing.gz
+coursera-20130422-0459-12mar-automata
+coursera-20130422-1039-005-crypto, 005-crypto-eventing.gz
+coursera-20130430-2129-12-001-gamification
+coursera-20130422-0522-12mar-intrologic
+coursera-20130422-0245-12jan-ml
+coursera-20130430-2148-12-001-operations
+coursera-20130422-1204-12-002-gametheory, 12-002-gametheory-eventing.gz
+coursera-20130701-1256-intrologic-003, 20130701-1256-intrologic-003_eventing.gz
+coursera-20130430-2128-12-001-design
+coursera-20130422-0720-12-002-crypto, 12-002-crypto-eventing.gz
+coursera-20130701-1546-12-003-crypto, 20130701-1546-12-003-crypto_eventing.gz
+coursera-20130422-2135-12-001-organalysis, 12-001-organalysis-eventing.gz
+coursera-20130422-2135-12-selfservice-compilers
+coursera-20130701-1114-pgm-003, 20130701-1114-pgm-003_eventing.gz
+coursera-20130421-2305-12jan-algo1
+coursera-20130701-1010-hci-003
+coursera-20130701-1010-crypto-006, 20130701-1010-crypto-006_eventing.gz
+coursera-20130701-1010-democraticdev-001, 20130701-1010-democraticdev-001_eventing.gz
+coursera-20130422-2135-12-selfservice-cs101
+coursera-20130701-1658-12-001-sciwrite, 20130701-1658-12-001-sciwrite_eventing.gz
+coursera-20130422-0919-12-002-ml, 12-002-ml-eventing.gz
+coursera-20130422-0632-12jan-hci
+coursera-20130430-2127-12-001-worldmusic
+coursera-20130422-1206-12-003-algo, 12-003-algo-eventing.gz
+coursera-20130421-2305-12jan-crypto
+coursera-20130422-0530-12apr-compilers
+coursera-20130422-0936-002-crypto, 002-crypto-eventing.gz
+coursera-20130531-1829-12-001-maththink
+coursera-20130701-1518-12-002-hci, 20130701-1518-12-002-hci_eventing.gz
+coursera-20130701-1547-001-sustainableag, 20130701-1547-001-sustainableag_eventing.gz
+coursera-20130421-2305-12feb-gametheory
+coursera-20130701-1426-12-002-compilers, 20130701-1426-12-002-compilers_eventing.gz
+coursera-20130701-1601-12-002-pgm, 20130701-1601-12-002-pgm_eventing.gz
+coursera-20130701-1103-12-001-maththink, 20130701-1103-12-001-maththink_eventing.gz

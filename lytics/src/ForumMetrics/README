@@ -1,0 +1,39 @@
+
+Terminology:
+contributions = any post or comment is called a contribution
+actives = any student who had a final score that was greater
+    that 5% of the maximum final score over the entire class
+    was called an active
+
+Columns:
+1   Course Name
+2   Proportion of forum contributions done by actives
+3   Proportion of actives who viewed the forum
+4   Number of subscriptions divided by number of actives
+5   Number of threads divided by number of actives
+6   Number of contributions divided by number of actives
+7   Number of views divided by number of actives
+8   Number of forum views divided by number of number of contributions
+9   Average time to first response for a thread
+10   Median time to first response for a thread
+11   Average time between contributions to a thread
+12   Median time between contributions to a thread
+13 Number of open threads (with no response)
+13  Average post length in words
+14  Average number of contributions per thread
+15  Number of posts by instructor
+16  Average post length by instructor
+17  Average boost by instructor (see below)
+19  Average forum reputation
+
+Entries are empty in the case of missing databases/tables
+
+Boost:
+    This was roughly the average boost in forum activity after
+an instructor's post and was calculated as the ratio of 
+the number of posts per hour for 8 hours after the instructor
+post to the number of posts per hour for 4 hours prior to the instructor
+post (then averaged over all instructor posts for that course)
+
+
+

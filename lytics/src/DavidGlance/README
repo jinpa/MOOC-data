@@ -1,0 +1,35 @@
+
+0   Course Name
+1   Course Difficulty
+    1, 2, or 3 (ask Marc for details), nothing reported if no difficulty has been specified (again, by Marc)
+2   # Registered Users
+3   # Males  
+    (of those who responded to survey)
+4   # Females
+    (of those who responded to survey)
+5   # survey respondents
+6   # lecture view events
+
+Columns 7-11 are age related
+7   # survey respondents with age in 20-29  
+8   # survey respondents with age in 30-39  
+9   # survey respondents with age in 40-49  
+10   # survey respondents with age in 50-59  
+11   # survey respondents with age in 60-69
+
+Columns 12-23 are education level related:
+12  ''
+13  'no schooling completed'
+14  'some primary or elementary school'
+15  'some high school (but no degree)'
+16  'high school diploma (or equivalent)'
+17  'some college but no degree'
+18  'bachelor\'s degree (e.g., BA, AB, BS)'
+19  'associate degree - academic program'
+20  'associate degree - occupational/technical/vocational program'
+21  'professional school degree (e.g., MD, DDS, DVM, LLB, JD)'
+22  'master\'s degree (e.g., MA, MS, MEng, MEd, MSW, MBA)'
+23  'doctorate degree (e.g., PhD, EdD)'  
+
+
+

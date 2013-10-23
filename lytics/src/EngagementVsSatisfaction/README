@@ -1,0 +1,31 @@
+
+Goal: relate forum "satisfaction" to course engagement.
+Approach:
+    We focus on users who start a thread and measures their
+forum satisfaction by looking at quality of responses (votes),
+quantity of responses (or whether they get a response at all) 
+and speed of response.
+
+Data format:
+
+Each row corresponds to a user who "opened" a thread.
+There are 33,079 rows in total
+
+Column descriptions:
+
+0   Course Name
+
+Forum Satisfaction
+1   Median first response time (response time set to infinity if no response)
+2   Median number of votes
+3   Average number of votes
+4   Median number of responses (number set to zero if a thread had no responses)
+5   Average number of responses
+6   Number of open threads (threads opened by this user with no response)
+7   Fraction of open threads 
+
+Course Engagement
+8   Fraction of lectures viewed
+9   Fraction of quizzes submitted
+
+
